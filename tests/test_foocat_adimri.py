@@ -1,0 +1,1 @@
+from foocat_adimri import foocat_adimri
